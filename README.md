@@ -6,3 +6,10 @@ Otherwise, if you have ionic2 in your computer start the lab going to the projec
 
 ionic serve --lab
 
+-- 
+Para ejecutar el proyecto desde src -> pages y abrir desde la que se quiera
+
+o ejecutarlo directamente desde el emulador de ionic con el comando: 
+
+ionic serve --lab
+
