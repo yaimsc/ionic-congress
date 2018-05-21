@@ -6,6 +6,8 @@ Otherwise, if you have ionic2 in your computer start the lab going to the projec
 
 ionic serve --lab
 
+To execute you need to have in your computer Node.js and ionic Modules
+
 --
 
 
@@ -15,3 +17,4 @@ o ejecutarlo directamente desde el emulador de ionic con el comando:
 
 ionic serve --lab
 
+Para poder ejecutar es necesario tener instalado Node.js y Ionic Modules
